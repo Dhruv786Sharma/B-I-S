@@ -1,0 +1,83 @@
+#img
+{
+    width: 100%;
+    height: 650px;
+    border: none;
+}
+.video
+{
+    width: 32%;
+    height: 300px;
+}
+.travel_mainDiv
+{
+    background-color: rgba(255, 217, 0, 0.203);
+    border: 5px solid lightgreen;
+}
+.travel_mainDiv img
+{
+    width: 60%;
+}
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 20px;
+}
+.achievement_text span
+{
+    color: blueviolet;
+}
+#achievements
+{
+    background-color: rgba(255, 0, 0, 0.217);
+    border: 10px solid blue;
+}
+#myNavbar
+{
+    position: fixed;
+    background-color: brown;
+    width: 100%;
+    border-radius: 100px;
+    padding-left: 30%;
+}
+#school_name
+{
+    background-color: rgba(0, 255, 255, 0.317);
+    border: 10px solid rgb(7, 240, 69);
+}
+#campus_life
+{
+    border: 10px solid rgb(37, 29, 29);
+}
+.new
+{
+    margin: 20px;
+}
+#WN
+{
+    background-color: blueviolet;
+    border: 10px solid gray;
+    height: 425px;
+}
+#c
+{
+    height: 300px;
+}
+#ci
+{
+  width  : 300px;
+}
+#contact iframe
+{
+  width  : 100%;
+}
+#contact
+{
+    background-color: blueviolet;
+    border: 10px solid red;
+    height: 970px;
+}
+.line
+{
+    height: 10px;
+    background-color: gray;
+}

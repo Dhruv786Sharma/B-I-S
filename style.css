@@ -29,7 +29,7 @@
 #achievements
 {
     background-color: rgba(255, 0, 0, 0.217);
-    border: 5px solid blue;
+    border: 10px solid blue;
 }
 #myNavbar
 {
@@ -42,5 +42,42 @@
 #school_name
 {
     background-color: rgba(0, 255, 255, 0.317);
-    border: 5px solid black;
+    border: 10px solid rgb(7, 240, 69);
+}
+#campus_life
+{
+    border: 10px solid rgb(37, 29, 29);
+}
+.new
+{
+    margin: 20px;
+}
+#WN
+{
+    background-color: blueviolet;
+    border: 10px solid gray;
+    height: 425px;
+}
+#c
+{
+    height: 300px;
+}
+#ci
+{
+  width  : 300px;
+}
+#contact iframe
+{
+  width  : 100%;
+}
+#contact
+{
+    background-color: blueviolet;
+    border: 10px solid red;
+    height: 970px;
+}
+.line
+{
+    height: 10px;
+    background-color: gray;
 }
